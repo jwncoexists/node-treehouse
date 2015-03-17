@@ -6,8 +6,8 @@ A node application to print out user information from teamtreehouse.com
 * Install (if you don't have them):
     * [Node.js](http://nodejs.org): `brew install node` on OS X
 
-* Install pong:
-  * git clone https://github.com/jwncoexists/treehouse.git 'your project folder'
+* Install node-treehouse:
+  * git clone https://github.com/jwncoexists/node-treehouse.git 'your project folder'
   * cd 'your project folder'
 
 * From a bash terminal window:
