@@ -1,6 +1,6 @@
 # treehouse
 
-A node application to print out user information from teamtreehouse about
+A node application to print out user information from teamtreehouse.com
 
 ## Getting started
 * Install (if you don't have them):
