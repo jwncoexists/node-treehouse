@@ -1,6 +1,6 @@
 # treehouse
 
-A classic pong application developed with HTML5 & CSS animation.
+A node application to print out user information from teamtreehouse about
 
 ## Getting started
 * Install (if you don't have them):
@@ -10,5 +10,5 @@ A classic pong application developed with HTML5 & CSS animation.
   * git clone https://github.com/jwncoexists/treehouse.git 'your project folder'
   * cd 'your project folder'
 
-* Open a bash terminal window:
+* From a bash terminal window:
   * $ node treehouse.js <username1>...<usernamen>
