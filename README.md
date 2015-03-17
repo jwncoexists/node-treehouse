@@ -11,4 +11,4 @@ A node application to print out user information from teamtreehouse.com
   * cd 'your project folder'
 
 * From a bash terminal window:
-  * $ node treehouse.js <username1>...<usernamen>
+  * $ node treehouse.js username1 username2 username3...
